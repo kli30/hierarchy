@@ -16,8 +16,10 @@ n_components = 300
 ![alt text](https://github.com/kli30/hierarchy/blob/master/hrc-p-30.png)
 ### P: 100
 ![alt text](https://github.com/kli30/hierarchy/blob/master/hrc-p-100.png)
-### P: 300
+
+<!--### P: 300
 ![alt text](https://github.com/kli30/hierarchy/blob/master/hrc-p-300.png)
+-->
 
 ## Root node
 ![alt text](https://github.com/kli30/hierarchy/blob/master/cmp_subj_root.png)
@@ -35,6 +37,10 @@ n_components = 300
 ![alt text](https://github.com/kli30/hierarchy/blob/master/check_split_dim100.png)
 ### dim = 50
 ![alt text](https://github.com/kli30/hierarchy/blob/master/check_split_dim50.png)
+
+## validation test, 10-07-2019
+random seperation into two datasets, shuffle 100 times, check the resultant patterns and clustering
+![alt text](https://github.com/kli30/hierarchy/blob/master/perfect_seperation.png)
 
 # TODOs
 1. link to phenotypes (gender/family info)
