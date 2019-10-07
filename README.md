@@ -41,6 +41,9 @@ n_components = 300
 ## validation test, 10-07-2019
 random seperation into two datasets, shuffle 100 times, check the resultant patterns and clustering
 ![alt text](https://github.com/kli30/hierarchy/blob/master/perfect_seperation.png)
+connectivity patterns: 
+![alt text](https://github.com/kli30/hierarchy/blob/master/conn_patterns.png)
+ 
 
 # TODOs
 1. link to phenotypes (gender/family info)
